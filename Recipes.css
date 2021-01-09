@@ -59,7 +59,7 @@ a, button, .input, .account a {
   position: relative;
   display: inline-block;
   font-weight: bold;
-  margin: 2px;
+  margin: -3px;
 }
 .dropdown-content {
   display: none;
